@@ -14,7 +14,7 @@ I like working on problems that involve **architecture, correctness, and long-te
 
 | Stats | Languages |
 |-------|-----------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=angwm1&show_icons=true&rank_icon=github&theme=tokyonight&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angwm1&layout=compact&theme=tokyonight) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=angwm1&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true) | ![Langs](https://github-readme-stats.vercel.app/api?username=angwm1&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true) |
 
 ---
 
