@@ -1,11 +1,13 @@
 # Hi, I'm Ang Wei Ming 👋
 
-I'm a Computer Science undergraduate at NTU who enjoys building real systems — from internal ERP tools to AI-driven side projects.  
-I like working on problems that involve **architecture, correctness, and long-term maintainability**, not just quick demos.
+I'm a **Full-Stack Developer & Computer Science undergraduate at NTU** with experience building  
+web apps, mobile apps, and internal ERP tools across startups, enterprises, and student-led teams.
+
+I enjoy building **clean, scalable systems**, leading teams, and shipping real products used by thousands of users.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I'm Building Now
 
 ### 🏢 ERP System for AASTAR Trading
 An internal **enterprise ERP system** for a commodity trading company.
@@ -13,7 +15,7 @@ An internal **enterprise ERP system** for a commodity trading company.
 I’m building modules for payments, reporting, audit trails, and role-based access, designed for a **multi-tenant, multi-database setup (MySQL & Oracle)**.  
 This is a real system used for daily operations, so I focus heavily on correctness, testing, and clean architecture.
 
-**Stack:** React, ASP.NET Core, EF Core, MySQL, Oracle, Docker, CI/CD
+**Stack:** React, ASP.NET Core, EF Core, MySQL, Oracle, Docker, Jenkins, AWS
 
 ---
 
@@ -32,11 +34,12 @@ I built this mainly to learn how professional trading systems are structured and
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, Next.js, Tailwind, SASS, Flutter  
+**Frontend:** React, Next.js, Tailwind, SASS, Flutter, Bootstrap 
 **Backend:** ASP.NET Core, Node.js, Go  
 **Databases:** MySQL, Oracle, MongoDB, Supabase, Firebase  
-**Cloud:** AWS, Vercel, Docker, GitHub Actions  
-**Tools:** GitHub, Jira, Swagger, Postman, Figma  
+**Cloud:** AWS, Vercel, Docker
+**Tools:** GitHub Actions , Jira, Swagger, Postman, Figma, Jenkins
+**Testing:** Vitest, Playwright, xUnit, Jest, JUnit
 
 ---
 
