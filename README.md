@@ -34,7 +34,7 @@ I built this mainly to learn how professional trading systems are structured and
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, Next.js, Tailwind, SASS, Flutter, Bootstrap 
+**Frontend:** React, Next.js, Tailwind, SASS, Flutter, Bootstrap  
 **Backend:** ASP.NET Core, Node.js, Go  
 **Databases:** MySQL, Oracle, MongoDB, Supabase, Firebase  
 **Cloud:** AWS, Vercel, Docker  
