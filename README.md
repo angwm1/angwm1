@@ -5,19 +5,6 @@ I like working on problems that involve **architecture, correctness, and long-te
 
 ---
 
-## 🏆 Developer Score
-![GitRoll Profile](https://gitroll.io/api/badges/profiles/v1/angwm1)
-
----
-
-## 📊 GitHub Activity
-
-| Stats | Languages |
-|-------|-----------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=angwm1&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true) | ![Langs](https://github-readme-stats.vercel.app/api?username=angwm1&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true) |
-
----
-
 ## 🚀 What I'm Building
 
 ### 🏢 ERP System for AASTAR Trading
