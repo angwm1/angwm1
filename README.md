@@ -1,7 +1,7 @@
 # Hi, I'm Ang Wei Ming 👋
 
-I'm a **Full-Stack Developer & Computer Science undergraduate at NTU** with experience building  
-web apps, mobile apps, and internal ERP tools across startups, enterprises, and student-led teams.
+I'm a **Full-Stack Developer & Computer Science undergraduate at NTU** with experience building websites, 
+web apps, mobile apps, CMS, CRM, and internal ERP tools across startups, enterprises, and student-led teams.
 
 I enjoy building **clean, scalable systems**, leading teams, and shipping real products used by thousands of users.
 
