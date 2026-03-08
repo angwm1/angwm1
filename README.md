@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/jb-cheng/jb-cheng/blob/main/hi.gif?raw=true" height="100" alt="Hi there! I'm Ang Wei Ming!"/>
-</div>
+# Hi, I'm Ang Wei Ming 👋
 
 💻 Full-Stack Developer | 🤖 Systems Builder | 🎓 NTU Computer Science
 
