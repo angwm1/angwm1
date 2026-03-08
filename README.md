@@ -1,4 +1,6 @@
-# Hi, I'm Ang Wei Ming 👋
+<div align="center">
+  <img src="https://github.com/jb-cheng/jb-cheng/blob/main/hi.gif?raw=true" height="100" alt="Hi there! I'm Jun Bin!"/>
+</div>
 
 💻 Full-Stack Developer | 🤖 Systems Builder | 🎓 NTU Computer Science
 
